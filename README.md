@@ -18,6 +18,9 @@ O dataset utilizado para treinar o modelo é composto por imagens de diversos pe
 - Python
 - Jupyter Notebook
 - TensorFlow
+  - Keras
+- Pytorch
+  - Ultralytics
 - Scikit-learn
 - Scikit-image
 - OpenCV
